@@ -1,7 +1,5 @@
 
 # Consulta ao cep
-## Decodificador de texo
-Challenge One - Next Education
 
 ## Índice 
 * [Badges](#badges)
@@ -35,6 +33,8 @@ Challenge One - Next Education
   - Caso o cep digitado não passe na validação, o sistema vai exebir uma mensagem de erro na tela informando que o cep é inválido.
    
 ## Como rodar a aplicação
+  #### No terminal, clone o projeto:
+  
 
  ### Layout
 
@@ -52,14 +52,15 @@ Challenge One - Next Education
 
 
 ## Acesso ao Projeto
-  
+  ### Link de deploy do projeto.
+  <a> https://consulta-91onos1yz-gerdsi2013.vercel.app/ <a/> 
 
 ## Tecnologias utilizadas
 - ReactJS
 - TypeScript
 - Axios
 - Styled-Components
-- 
+
 
 ## pessoas-desenvolvedoras
 <a href="https://github.com/gerdsi2013" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
