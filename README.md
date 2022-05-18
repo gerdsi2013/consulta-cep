@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Descrição do Projeto
-- É uma aplicação aonde vai buscar um endereço através do cep.
+- É uma aplicação aonde vai fazer a buscar de um endereço através do cep.
 
 ## Status do Projeto
 ![DESENVOLVIMENTO](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -33,10 +33,12 @@
   - Caso o cep digitado não passe na validação, o sistema vai exebir uma mensagem de erro na tela informando que o cep é inválido.
    
 ## Como rodar a aplicação
-  #### No terminal, clone o projeto:
   
-
- ### Layout
+  #### No terminal, clone o projeto: git clone https://github.com/gerdsi2013/consulta-cep.git
+  #### Após clonar o repositório, abra a pasta do projeto em um editor de código ou no prompt do terminal, e execute o comando yarn start. 
+    
+  
+ ## Layout
 
 ##### Desktop
 ![dektop](https://user-images.githubusercontent.com/25357773/168867958-c9bb95e4-eba8-4620-85db-2ed900de53a1.png)
