@@ -94,7 +94,6 @@ export function Home() {
               value={adress?.localidade}
             ></input>
           </div>
-
           <div>
             <label htmlFor="district">Bairro</label>
             <input
